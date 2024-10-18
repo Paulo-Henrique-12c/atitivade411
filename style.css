@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia;
+}
+
+header{
+    background-color: #B0E0E6;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+}
+
+.primeira{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.segunda{
+    background-color: #003366;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+}
+
+.segunda img{
+    
+    width: 7rem;
+}
+
+img{
+    width: 19rem;
+    
+   
+}
+
+p{
+    max-width: 400px;
+}
