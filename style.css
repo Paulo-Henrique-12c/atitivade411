@@ -23,13 +23,35 @@ header{
     background-color: #003366;
     height: 20rem;
     display: flex;
+    justify-content: center;
     align-items: center;
+    gap: 40px;
+}
+
+.terceira{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px ;
 }
 
 .segunda img{
-    
     width: 7rem;
+    margin: 0 15px;
 }
+
+.segunda p{
+    width: 500px;
+    text-align: center;
+}
+
+.terceira img{
+    width: 24rem;
+    height: 8rem;
+}
+
 
 img{
     width: 19rem;
